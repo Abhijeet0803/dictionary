@@ -1,0 +1,37 @@
+.wrapper{
+    max-width: 400px;
+    margin: 70px auto;
+    border: 1px solid red;
+    border-radius: 8px;
+}
+
+nav{
+    border-bottom: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main{
+    height:400px;
+    overflow: scroll;
+}
+
+h2{
+    margin: 20px;
+}
+
+input{
+    margin: 20px;
+    height: 24px;
+    width: 150px;
+}
+
+.button{
+    margin: 20px auto;
+    text-align: center;
+}
+
+
+
+

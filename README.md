@@ -1,3 +1,19 @@
+# Steps to use in local computer
+
+## Backend Setup
+
+Goto server directory and run 
+        1. npm i  - to install node modules for backend
+        2. npm start - to run the backend server
+            - By default backend server will run on port 4000.
+## Frontend Setup
+
+Goto root directory and run 
+        1. npm i  - to install node modules 
+        2. npm start - to run the frontend
+            - By default frontend will run on port 3000.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
